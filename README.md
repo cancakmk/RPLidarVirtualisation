@@ -53,3 +53,4 @@ Nokta bulutlarını işlenmesi amacıyla bir kütüphane daha kullanılmaya kara
 
 Opencv kütüphanesi sayesinde oluşturulan her bir frame için çizgi tespiti yapılabilir hale gelmiştir.Örneğin 3. örnekte farklı renklerde görünen çizgilerden 96 adet bulunmaktadır.Fotoğraf için gerekli morfolojik işlemler tamamlanıp yukarıdaki şekillerde gösterilmiştir.
 
+Bu proje Kübra Yazar ile birlikte tamamlanmıştır.Ve Tübitak 2209-A projesi kapsamında geliştirilmiştir.
